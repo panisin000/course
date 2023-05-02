@@ -1,2 +1,2 @@
 # course
-> go mod tidy // install pagkage
+> go mod tidy // install pagekage
